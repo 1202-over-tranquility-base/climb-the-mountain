@@ -708,11 +708,12 @@ MonoBehaviour:
   m_text: 'Try to climb the mountain! How would you like to start?
 
     A) Pack your
-    gear
+    gear, you bought that right?
 
-    B) Start walking with just the clothes on your back
+    B) Start walking with just the clothes on your
+    back
 
-    C) Go Home'
+    C) Take off all your cloths and jump around'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
